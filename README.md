@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifhossen005&label=Profile%20views&color=0e75b6&style=flat" alt="arifhossen005" /> </p>
 
-<p align="left"> <a href="https://twitter.com/md.arif hossen" target="blank"><img src="https://img.shields.io/twitter/follow/md.arif hossen?logo=twitter&style=for-the-badge" alt="md.arif hossen" /></a> </p>
-
 - 🔭 I’m currently working on **CSE-0309/0310 course**
 
 - 🌱 I’m currently learning **java ,C++**
