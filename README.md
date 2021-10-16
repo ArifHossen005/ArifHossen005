@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arifsohag2700@gmail.com**
 
-- 📄 Know about my experiences [in latex also basic knowledge of C programming. JAVA. DATABASE.](in latex also basic knowledge of C programming. JAVA. DATABASE.)
+- 📄 Know about my experiences (in latex also basic knowledge of C programming. JAVA. DATABASE.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
