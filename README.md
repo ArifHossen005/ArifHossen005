@@ -1,6 +1,6 @@
 <h1 align="center"> <span style="color: brown">"Assalamu Alaikum"</span> </h1>
 <h1 align="center">Welcome To my Github Profile.</h1>
-<h3 align="center">I am a student of computer science and  engineering,i like to learn new things.I had already learned some language which will good for my future work.Always pray for me as if  I can be a better engineer.
+<h3 align="center">I am a student of computer science and  engineering,I like to learn always new things.I had already learned some language which will good for my future work.Always pray for me as if  I can be a better engineer.
 </h3>
 
 - 🔭 I’m currently working on **CSE-0309/0310 course**
