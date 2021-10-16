@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD.Arif Hossen</h1>
 <h3 align="center">Welcome To my Github Profile.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arifhossen005" alt="arifhossen005" /></a> </p>
-
 - 🔭 I’m currently working on **CSE-0309/0310 course**
 
 - 🌱 I’m currently learning **java ,C++**
