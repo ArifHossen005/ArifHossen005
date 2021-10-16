@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD.Arif Hossen</h1>
-<h3 align="center">Welcome To my Github Profile.</h3>
+<h1 align="center">Welcome To my Github Profile.</h1>
 
 - 🔭 I’m currently working on **CSE-0309/0310 course**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arifsohag2700@gmail.com**
 
-- 📄 Know about my experiences (in latex also basic knowledge of C programming. JAVA. DATABASE.)
+- 📄 Know about my experiences in latex also basic knowledge of C programming. JAVA. DATABASE.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
