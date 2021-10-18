@@ -3,13 +3,24 @@
 <h3 align="center">I am a student of computer science and  engineering,I like to learn always new things.I had already learned some language which will good for my future work.Always pray for me as if  I can be a better engineer.
 </h3>
 
+- 🔭 I’m currently working on **CSE-0309/0310 course**
 
+- 🌱 I’m currently learning **java ,C++**
 
+- 👯 I’m looking to collaborate on **YouTube**
 
-![o](https://user-images.githubusercontent.com/86180111/137674216-7beb859d-4570-4f89-9a8a-cfde221162e9.PNG)
+- 🤝 I’m looking for help with **C language**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ArifHossen005](https://github.com/ArifHossen005)
 
-<img src="o.PNG" alt="Arif Profile">
+- 📝 I regularly write articles on [https://www.facebook.com/SohagRummanRazinBoss/](https://www.facebook.com/SohagRummanRazinBoss/)
+
+- 💬 Ask me about **Ict Related Question**
+
+- 📫 How to reach me **arifsohag2700@gmail.com**
+
+- 📄 Know about my experiences in latex also basic knowledge of C programming. JAVA. DATABASE.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/md.arif hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md.arif hossen" height="30" width="40" /></a>
@@ -28,4 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifhossen005&show_icons=true&locale=en" alt="arifhossen005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifhossen005&" alt="arifhossen005" /></p>
+
 
