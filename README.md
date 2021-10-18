@@ -36,9 +36,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifhossen005&show_icons=true&locale=en&layout=compact" alt="arifhossen005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifhossen005&show_icons=true&locale=en" alt="arifhossen005" /></p>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifHossen005&show_icons=true)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArifHossen005)  
-![Profile views](https://gpvc.arturio.dev/ArifHossen005)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifhossen005&show_icons=true&locale=en" alt="arifhossen005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifhossen005&" alt="arifhossen005" /></p>
 
