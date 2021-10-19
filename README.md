@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Ict Related Question**
 
-- 📫 How to reach me **arifsohag2700@gmail.com**
+- 📫 How to reach me **subug005@gmail.com**
 
 - 📄 Know about my experiences in latex also basic knowledge of C programming. JAVA. DATABASE.
 
