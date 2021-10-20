@@ -23,16 +23,6 @@
 
 - 📄 Know about my experiences in latex also basic knowledge of C programming. JAVA. DATABASE.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/md.arif hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md.arif hossen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md arif hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md arif hossen" height="30" width="40" /></a>
-<a href="https://fb.com/md.arif hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.arif hossen" height="30" width="40" /></a>
-<a href="https://instagram.com/md.arif hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.arif hossen" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/md.arif hossen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="md.arif hossen" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/md.arif hossen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="md.arif hossen" height="30" width="40" /></a>
-</p>
-
 
 
 
@@ -98,6 +88,7 @@
 
 ## Connect with me:
 <p align="left">
+    <a href="https://www.facebook.com/SohagRummanRazinBoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.arif hossen" height="30" width="40" /></a>
 <a href = "https://www.linkedin.com/in/md-arif-hossen-0505a6216"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/SohagRummanRazinBoss  "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rumman_razin/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
