@@ -43,6 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifhossen005&" alt="arifhossen005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatsorkar1&" alt="arifhossen005" /></p>
+
 
 
