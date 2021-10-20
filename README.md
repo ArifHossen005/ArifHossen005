@@ -98,8 +98,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.facebook.com/SohagRummanRazinBoss"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.linkedin.com/in/md-arif-hossen-0505a6216"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/md-arif-hossen-0505a6216"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/SohagRummanRazinBoss  "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rumman_razin/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/><img>
 </p>
