@@ -39,6 +39,11 @@
 
 
 
+<br/>
+<br/>
+<a href="https://github.com/arifhossen005/github-readme-activity-graph"><img alt="MD.Arif s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arifhossen005&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
 
 
 
@@ -51,9 +56,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifhossen005&" alt="arifhossen005" /></p>
 
-</a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+
+
+
+
+
+
+
 
 
 
