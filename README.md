@@ -88,7 +88,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.facebook.com/SohagRummanRazinBoss" ><img [src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'] /></a>
+
 <a href = "https://www.linkedin.com/in/md-arif-hossen-0505a6216"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/SohagRummanRazinBoss  "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rumman_razin/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
