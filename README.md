@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArifHossen005](https://github.com/ArifHossen005)
 
-- 📝 I regularly write articles on [https://www.facebook.com/SohagRummanRazinBoss/](https://www.facebook.com/SohagRummanRazinBoss/)
+- 📝 I regularly write articles on [https://www.facebook.com/iamarifhossen](https://www.facebook.com/iamarifhossen)
 
 - 💬 Ask me about **Ict Related Question**
 
@@ -90,8 +90,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/md-arif-hossen-0505a6216"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/SohagRummanRazinBoss  "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rumman_razin/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/iamarifhossen  "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.facebook.com/iamarifhossen/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/><img>
 </p>
 
