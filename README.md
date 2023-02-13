@@ -5,9 +5,9 @@
 </h5>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **CSE-0309/0310 course**
+- 🔭 I’m currently working on **A PHP Project**
 
-- 🌱 I’m currently learning **java ,C++**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **YouTube**
 
