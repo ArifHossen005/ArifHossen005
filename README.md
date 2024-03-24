@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **YouTube**
 
-- 🤝 I’m looking for help with **C language**
+- 🤝 I’m looking for help with **PHP language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArifHossen005](https://github.com/ArifHossen005)
 
