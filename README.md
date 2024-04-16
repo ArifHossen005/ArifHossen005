@@ -52,7 +52,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/material-sharp/48/000000/github.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/phpstorm.png"/> </a>
+    <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/phpstorm-1.png"/> </a>
 </p>
 
 
