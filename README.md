@@ -62,34 +62,28 @@
     <img title="🔥 GitHub Streak Stats" alt="Arif Hossen's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArifHossen005&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-
-
-
-
 ## 📊 My Github Stats
-  <br/>
+<br/>
+<p align="center">
     <a href="https://github.com/ArifHossen005/github-readme-stats"><img alt="MD.Arif Hossen  Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArifHossen005&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ArifHossen005/github-readme-stats"><img alt="MD.Arif Hossen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifHossen005&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-<a href="https://github.com/ArifHossen005/github-readme-activity-graph"><img alt="MD.Arif Hossen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArifHossen005&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
-
-
-
-
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/md-arif-hossen-0505a6216"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/iamarifhossen  "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.facebook.com/iamarifhossen/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/><img>
 </p>
+
+<br/>
+
+## 💻 Top Languages
+<br/>
+<p align="center">
+    <a href="https://github.com/ArifHossen005/github-readme-stats"><img alt="MD.Arif Hossen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifHossen005&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+<br/>
+
+## 📈 My Activity Graph
+<br/>
+<p align="center">
+    <a href="https://github.com/ArifHossen005/github-readme-activity-graph"><img alt="MD.Arif Hossen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArifHossen005&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
+p>
 
 
 
