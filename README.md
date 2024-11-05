@@ -54,7 +54,5 @@
 
 <br/>
 
-## 📈 My Activity Graph
-<p align="center">
-    <img alt="Arif Hossen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArifHossen005&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</p>
+
+
