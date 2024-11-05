@@ -2,7 +2,7 @@
 <h4 align="center"> "Welcome To My Profile 💐" </h4>
 
 <p align="center">
-    <img width="100%" height="auto" src="https://iili.io/2xvebol.jpg" height="150px" width="200px" alt="Welcome Image" />
+<img src="https://iili.io/2xvebol.jpg" alt="Welcome Image" width="200" height="150">
 </p>
 
 <h5 align="center">
