@@ -1,58 +1,153 @@
- <h1 align="center"> <span style="color: brown">"Assalamu Alaikum"</span> </h1>
-<h4 align="center"> "Welcome To My Profile 💐" </h4>
+<div align="center">
 
-<p align="center">
-<img src="https://iili.io/2xvebol.jpg" alt="Welcome Image" width="250" height="200">
-</p>
+# <span style="color: #2563eb;">Assalamu Alaikum</span> 👋
 
-<h5 align="center">
-    I am a Computer Science and Engineering student, always eager to learn new things. 
-    I am currently focused on PHP and Laravel for backend development and aim to become a proficient engineer. 
-    Please pray for me to achieve my goals!
-</h5>
+### Welcome to My GitHub Profile
 
-## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **PHP projects using Laravel**.
-- 🌱 I’m learning **advanced Laravel features** and **RESTful APIs**.
-- 👯 I’m looking to collaborate on **open-source PHP projects**.
-- 🤝 I’m seeking help with **PHP and Laravel best practices**.
-- 👨‍💻 You can find my projects on [my GitHub](https://github.com/ArifHossen005).
-- 📝 I occasionally write articles on [my Facebook](https://www.facebook.com/iamarifhossen).
-- 💬 Feel free to ask me about **ICT-related questions**.
-- 📫 How to reach me: **arifsohag2500@gmail.com**.
-- 📄 I also have experience with **C programming**, **Java**, and **database management**.
+<img src="https://github.com/ArifHossen005.png" alt="Arif Hossen" width="180" height="180" style="border-radius: 50%; border: 3px solid #58A6FF;"/>
 
-## 🚀 Languages and Tools:
-<p align="left">
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> </a>
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/material-sharp/48/000000/github.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/phpstorm-1.png"/> </a>
-</p>
+</div>
 
-<br/>
+---
 
-## 📊 My GitHub Stats
-<p align="center">
-    <img alt="Arif Hossen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArifHossen005&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
+## 👨‍💻 About Me
 
-<br/>
+```yaml
+name: Arif Hossen
+role: Backend Developer
+education: Computer Science & Engineering Graduate (2023)
+current_focus: HRM Software Development
+location: Dhaka, Bangladesh
+email: arifsohag2500@gmail.com
+```
 
-## 💻 Top Languages
-<p align="center">
-    <img alt="Arif Hossen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifHossen005&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
+🔹 **Currently Working On:** Building scalable HRM software using PHP & Laravel  
+🔹 **Learning:** Advanced Laravel features, RESTful API design, and backend optimization  
+🔹 **Open To:** Collaborating on open-source PHP/Laravel projects  
+🔹 **Ask Me About:** Web development, PHP, Laravel, MySQL, backend architecture  
 
-<br/>
+---
 
+## 🛠️ Technical Skills
 
+<div align="center">
 
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend Technologies
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArifHossen005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifHossen005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifHossen005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArifHossen005&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+**🚧 Projects Coming Soon! 🚧**
+
+I'm currently working on several exciting projects:
+- 🏢 **HRM System** - Complete Human Resource Management solution
+- 🔐 **PHP Auth System** - Secure authentication with role-based access
+- 📊 **Laravel Dashboard** - Admin panel with analytics
+
+*Once published, they'll be showcased here!*
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifHossen005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ArifHossen005)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArifHossen005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifsohag2500@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArifHossen005)
+
+</div>
+
+---
+
+## 💡 Professional Highlights
+
+- ✅ Developed enterprise-level HRM software handling employee management, payroll, and attendance
+- ✅ Built secure authentication systems with role-based access control
+- ✅ Implemented RESTful APIs for mobile and web applications
+- ✅ Optimized database queries for improved application performance
+- ✅ Contributed to open-source PHP/Laravel projects
+
+---
+
+## 📚 Currently Learning
+
+- 🔸 Advanced Laravel ecosystem (Livewire, Inertia.js)
+- 🔸 Microservices architecture with PHP
+- 🔸 Docker & containerization
+- 🔸 API security best practices
+- 🔸 Cloud deployment (AWS/DigitalOcean)
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArifHossen005&color=blue&style=for-the-badge)
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+</div>
